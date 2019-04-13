@@ -1,0 +1,24 @@
+{
+  "name": "google-home-ing",
+  "version": "1.0.0",
+  "description": "A test project to use Google Home to transfer money to and from ING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "voice",
+    "home",
+    "ing",
+    "psd2"
+  ],
+  "author": "Julien Lengrand-Lambert",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "jwa": "^1.4.1",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}
